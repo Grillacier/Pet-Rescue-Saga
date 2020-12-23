@@ -35,7 +35,7 @@ public class Animal extends Case {
     }
 
     //accesseurs
-    public String getEspece() {
-        return espece;
+    public String getCouleur() {
+        return '[' + espece.substring(0,1).toLowerCase() + ']';
     }
 }
