@@ -11,11 +11,12 @@ public class Bloc extends Case{
 
     public static Random rand = new Random();
 
-    // permet de tirer des entiers au hasard entre a inclus et b exclus
+    //permet de tirer des entiers au hasard entre a inclus et b exclus
     public static int randRange(int a, int b) {
         return rand.nextInt(b-a)+a;
     }
 
+    //on choisit la couleur des blocs aléatoirement
     public void colorier(){
         int c = randRange(1, 6);
         switch (c) {
@@ -29,6 +30,6 @@ public class Bloc extends Case{
 
     //accesseurs
     public String getCouleur() {
-        return couleur;
+        return '[' + couleur.substring(0,1) + ']';
     }
 }
