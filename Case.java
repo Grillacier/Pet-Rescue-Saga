@@ -1,3 +1,3 @@
-public class Case {
-
+abstract class Case {
+    public abstract String getCouleur();
 }
