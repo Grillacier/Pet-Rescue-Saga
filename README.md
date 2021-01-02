@@ -1,11 +1,9 @@
-décaler les blocs à gauche quand une colonne est vide
-
 blocs incassables : poutres (horizontal)
 		    poutres verticales (avec de la lierre tout en haut)
 	            murs de pierre (verticale, avec des lierres pour ceux en bas)
 		    planches
 
-fusée pour supprimer une ligne
+fusée pour supprimer une colonne
 marteau pour casser un bloc
 ballon (=case du tableau) détruit tous les blocs visibles de la même couleur
 
