@@ -1,11 +1,16 @@
+/!\ quand on supprime un bloc placé juste en dessous d'un animal, l'animal disparaît et je ne comprends pas pourquoi /!\
+
 blocs incassables : poutres (horizontal)
 		    poutres verticales (avec de la lierre tout en haut)
 	            murs de pierre (verticale, avec des lierres pour ceux en bas)
 		    planches
 
+hauteur variable au sein du plateau
+
+fichiers de niveaux
+
 fusée pour supprimer une colonne
 marteau pour casser un bloc
-ballon (=case du tableau) détruit tous les blocs visibles de la même couleur
 
 nombre limité de coups
 
