@@ -9,7 +9,7 @@ fusée pour supprimer une ligne
 marteau pour casser un bloc
 ballon (=case du tableau) détruit tous les blocs visibles de la même couleur
 
-nombre limités de coups
+nombre limité de coups
 
 niveaux à défilement où des blocs sont cachés en bas
 
