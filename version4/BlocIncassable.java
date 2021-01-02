@@ -3,8 +3,8 @@ public class BlocIncassable extends Case {
     private String type;
 
     //constructeur
-    public BlocIncassable() {
-
+    public BlocIncassable(String type) {
+        this.type = type;
     }
 
     //accesseurs
@@ -14,6 +14,6 @@ public class BlocIncassable extends Case {
 
     @Override
     public String toString() {
-        return '[' + type.substring(0,1) + ']';
+        return '|' + type.substring(0,1) + '|';
     }
 }
