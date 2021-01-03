@@ -5,6 +5,9 @@ blocs incassables : poutres (horizontal)
 	            murs de pierre (verticale, avec des lierres pour ceux en bas)
 		    planches
 
+blocs bonus : bombes et ballons
+bonus : fusées et marteaux
+
 hauteur variable au sein du plateau
 
 fichiers de niveaux
