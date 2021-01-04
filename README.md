@@ -6,7 +6,7 @@ blocs incassables : poutres (horizontal)
 
 hauteur variable au sein du plateau
 
-joueur robot
+(joueur robot un peu plus intelligent)
 
 règles du jeu
 progression des joueurs
@@ -25,7 +25,7 @@ niveaux à défilement où des blocs sont cachés en bas
 à partir du niveau 8
 profondeur du niveau indiquée
 compteur de profondeur diminue quand on descend
-quand case la plus haute contient animal, il se fait enlever par un voleur d'animal et la perdue est perdue car il faut sauver un nombre précis d'animaux
+quand case la plus haute contient animal, il se fait enlever par un voleur d'animal et la partie est perdue car il faut sauver un nombre précis d'animaux
 
 nombre limité de coups à partir du niveau 12
 
