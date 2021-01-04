@@ -1,3 +1,7 @@
+dessins de ballons et bombes
+
+optimiser le calcul du score
+
 blocs incassables : poutres (horizontal)
 		    poutres verticales (avec de la lierre tout en haut)
 	            murs de pierre (verticale, avec des lierres pour ceux en bas)
