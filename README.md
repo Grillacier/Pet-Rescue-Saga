@@ -1,3 +1,5 @@
+fonctions de déplacement prenant en compte les blocs  qui ne bougent pas
+
 dessins de ballons et bombes
 
 optimiser le calcul du score
