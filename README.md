@@ -2,8 +2,7 @@
 MENU POUR SÉLECTIONNER LES NIVEAUX
 
 
-
-fonctions de déplacement prenant en compte les blocs  qui ne bougent pas
+correction des conditions d'arrêt
 
 dessins de ballons, bombes, briques
 
@@ -60,8 +59,6 @@ niveau 6 à 11 : clairière
 12 à 15 : vieux donjon
 16 à 27 : grande ville
 28 à ? : amazonie
-
-découper photos animaux
 
 animation de l'animal quand on le touche (à la fin tavu)
 
