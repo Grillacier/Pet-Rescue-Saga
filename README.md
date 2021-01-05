@@ -1,6 +1,11 @@
+/!\ URGENT /!\
+MENU POUR SÉLECTIONNER LES NIVEAUX
+
+
+
 fonctions de déplacement prenant en compte les blocs  qui ne bougent pas
 
-dessins de ballons et bombes
+dessins de ballons, bombes, briques
 
 optimiser le calcul du score
 
